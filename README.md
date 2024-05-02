@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaibhavsolankii
-- 👀 I’m interested in  Internships and Open Source Projects
+- 👀 I’m interested in Full-Time Role.
 - 🌱 I’m currently learning MERN and Full Stack Development
 - 💞️ I’m looking to collaborate on Open Source Web Application and full stack Projects.
 - 📫 Reach me at "vaibhavsolanki659@gmail.com"
